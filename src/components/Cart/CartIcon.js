@@ -11,3 +11,5 @@ const CartIcon = () => {
   };
   
   export default CartIcon;
+
+  //this is crticon code
