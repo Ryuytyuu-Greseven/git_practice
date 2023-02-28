@@ -55,3 +55,5 @@ const Cart = (properties) => {
 };
 
 export default Cart;
+
+// added some changes in Cart.js
