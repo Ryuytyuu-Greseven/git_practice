@@ -12,4 +12,4 @@ const CartIcon = () => {
   
   export default CartIcon;
 
-  //this is crticon code
+  //Updated Carticon comment with some new changes
