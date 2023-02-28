@@ -22,4 +22,4 @@ const CartItem = (props) => {
 
 export default CartItem;
 
-// adding some changes in cartitem
+// some changes in cartIterm.js from check_1 branch. and pulling staging branch into this branch.
