@@ -51,3 +51,7 @@ const CartButton = (properties) => {
 };
 
 export default CartButton;
+
+
+// this is later merging branch check_34. Will raise a PR to master after unknowingly merging
+// the staging pulled branch( check_1)
