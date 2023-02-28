@@ -56,5 +56,4 @@ const Cart = (properties) => {
 
 export default Cart;
 
-
-// updating first commmit
+// added some changes in Cart.js
