@@ -21,3 +21,5 @@ const CartItem = (props) => {
 };
 
 export default CartItem;
+
+// adding some changes in cartitem
