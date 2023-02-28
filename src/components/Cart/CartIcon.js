@@ -12,4 +12,5 @@ const CartIcon = () => {
   
   export default CartIcon;
 
-  //Updated Carticon comment with some new changes
+  //this is second change of this line
+  // added few more lines and want to do something.
