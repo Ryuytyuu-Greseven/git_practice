@@ -21,3 +21,5 @@ const Header = (properties) => {
 };
 
 export default Header;
+
+// some changes in Headedr file, from check_2 and raising PR from check_2 to master.
